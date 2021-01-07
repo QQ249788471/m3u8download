@@ -1,0 +1,14 @@
+{
+  "node_name": "127.0.0.1",
+  "download_path": "E:/tsdown",
+  "log_path": "E:/log",
+  "interval": 1,
+  "max_task_count": 6,
+  "max_retry": 3,
+  "database": {
+    "host": "127.0.0.1:3306",
+    "username": "cloud",
+    "password": "sksn&r2832k$22313sd",
+    "db_name": "vms"
+  }
+}
